@@ -1,0 +1,3 @@
+https://github.com/PreCAT-OM50/Aptitude.git
+
+copy this urls for git clone or git pull in this folder
